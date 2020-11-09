@@ -1,4 +1,4 @@
----
+docs/content/github/getting-started-with-github/faq-about-changes-to-githubs-plans.md---
 title: Fork a repo
 redirect_from:
   - /fork-a-repo/
